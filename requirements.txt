@@ -3,7 +3,7 @@ click==6.7
 Flask==0.12.2
 Flask-Mail==0.9.1
 Flask-Redis==0.3.0
-huey==1.10.1
+huey==1.11.0
 itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
