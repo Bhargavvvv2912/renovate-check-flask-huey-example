@@ -6,6 +6,6 @@ Flask-Redis==0.3.0
 huey==1.10.1
 itsdangerous==0.24
 Jinja2==2.10
-MarkupSafe==1.0
+MarkupSafe==3.0.4
 redis==2.10.6
 Werkzeug==0.15.5
